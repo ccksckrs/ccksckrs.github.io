@@ -7,16 +7,16 @@
     {% unless site.stackoverflow == "" %}
       <a id="so-ic" href="{{site.stackoverflow}}"><i class="fa fa-stack-overflow"></i></a>
     {% endunless %}
-		
-    <a id="sitename" href="{{site.baseurl}}">username.github.io</a>
+
+    <a id="sitename" href="{{site.baseurl}}">{{site.title}}</a>
   </h1>
 
   <!-- Add something about you in p tag-->
-  <p>Write something about you here...</p>
+  <p>{{site.description}}</p>
   <hr/>
-  
-  {% include nav-links.html %} 
-	 
+
+  {% include nav-links.html %}
+
 </div>
 
 
