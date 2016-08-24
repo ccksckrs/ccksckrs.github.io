@@ -2,7 +2,7 @@
 title: "Cocksuckers!"
 tags: [repete]
 soundcloud: "203084520"
-tempo: 130
+tempo: 135
 ---
 
 PROUD!! You look like you're so proud  
