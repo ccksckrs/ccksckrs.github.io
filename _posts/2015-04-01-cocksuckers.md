@@ -5,6 +5,8 @@ soundcloud: "203084520"
 tempo: 135
 ---
 
+### Verse 1
+
 PROUD!! You look like you're so proud  
 You've succeded your life  
 You crushed every barrier on your way  
@@ -19,11 +21,13 @@ BITE !! We are going to blow
 All neurons in your brain  
 All ideas in your mind
 
-_Refrain:_
+### Chorus
 
 My life is cool, I've got 2,000 friends  
 But in the end you're just a poor  
 COCKSUCKER !!!
+
+### Verse 2
 
 TIME!! It's time to fuck your ass  
 Forget all that you have  
@@ -33,15 +37,17 @@ I must break you, I'll do
 It's not a choice you have  
 (Cauzin the end you're just another)
 
-_Refrain:_
+### Chorus
 
 Give me blowjob this is the best for u  
 Cauzin the end you're just a poor  
 COCKSUCKER!!!
 
-pont solo
+### Bridge
 
-_Refrain:_
+### Solo
+
+### Chorus
 
 Butin the end you're just a another... (x5)  
 Butin the end we are just ALL  

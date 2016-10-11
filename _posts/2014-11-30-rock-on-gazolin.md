@@ -5,6 +5,8 @@ soundcloud: "203084896"
 tempo: 200
 ---
 
+### Verse 1
+
 On the road again  
 driving my 3-0-6  
 My bab's beside me  
@@ -16,9 +18,11 @@ My baby goes blank
 Stopping on the side  
 She's pukin' on the wall  
 
-_Refrain:_
+### Chorus
 
 Rock on gazolin x4
+
+### Verse 2
 
 After I spit on their clits  
 They say "give us more!"  
@@ -28,9 +32,11 @@ But someone (someone!)
 Anywhere (anywhere!)  
 Someone anywhere has to pay
 
-_Refrain_
+### Chorus
 
-_Solo_
+### Solo
+
+### Verse 3
 
 I am a poor, I am a poor lonesome trucker  
 My tank are full, I have to full peggy the whore  
