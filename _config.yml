@@ -20,7 +20,7 @@ twitter: "https://twitter.com/ccksckrs"  #Add your twitter url here.
 google:
     tracking-id: "" #your tracking id here
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
