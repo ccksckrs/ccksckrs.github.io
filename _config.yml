@@ -1,7 +1,7 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "cksckrs.github.io" # the base hostname & protocol for your site.
-title: "CKSCKRS"
-description: "But in the end you're just another..."
+title: "Les Cocksuckers"
+description: "Punk Rock'n Roll Festif"
 host: 0.0.0.0
 
 paginate: 10 #articles per page
