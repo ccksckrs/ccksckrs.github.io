@@ -1,0 +1,22 @@
+---
+title: facebook
+permalink: "facebook/index.html"
+layout: empty
+---
+
+<p>Something about you here...</p>
+<script>
+  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+  // Windows Phone must come first because its UA also contains "Android"
+  if (/windows phone/i.test(userAgent)) {
+    window.location.replace("https://facebook.com/coqsucres");
+  } else if (/android/i.test(userAgent)) {
+    window.location.replace("fb://page/380271689039320");
+  } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+    // iOS detection from: http://stackoverflow.com/a/9039885/177710
+    window.location.replace("fb://profile/380271689039320");
+  } else {
+    window.location.replace("https://facebook.com/coqsucres");
+  }
+</script>
