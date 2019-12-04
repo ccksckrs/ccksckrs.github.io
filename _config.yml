@@ -8,9 +8,10 @@ paginate: 10 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 #contacts
-git: "https://github.com/cksckrs"  #your github url here.
+git: "https://github.com/cksckrs"
 #stackoverflow: "http://stackoverflow.com/users/1231365/railsr" #Add your stackoverflow url here.
-twitter: "https://twitter.com/ccksckrs"  #Add your twitter url here.
+facebook: "https://www.facebook.com/coqsucres"
+twitter: "https://twitter.com/ccksckrs"
 
 #disqus comment
 #disqus:
